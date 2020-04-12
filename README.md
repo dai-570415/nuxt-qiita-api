@@ -1,5 +1,7 @@
 # nuxt-app
 
+このアプリはQiitaの情報（API）を取得して表示できるアプリです。
+
 ## Build Setup
 
 ``` bash
@@ -15,5 +17,7 @@ $ npm install --save @nuxtjs/axios
 $ npm run dev
 
 ```
+
+このURLでアクセスしてください。
 
 localhost:3000
